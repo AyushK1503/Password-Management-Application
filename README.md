@@ -1,1 +1,1 @@
-# Password-Management-Application
+Designed and implemented a password management application using Python with a user-friendly interface created in Tkinter. The application allows users to securely store and retrieve passwords using a JSON-based storage system. Key features include password generation with random characters, searching for saved credentials by website name, and seamless integration for saving and updating password records. This project emphasizes data security, efficient record management, and intuitive user interaction.
